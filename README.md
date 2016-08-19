@@ -3,6 +3,8 @@ References and links for Pete Ashton's 20/20 Visions essay.
 
 My website is at [peteashton.com](http://peteashton.com)
 
+[About the 20/20 Visions programme.](http://kwmc.org.uk/projects/2020visions/)
+
 *I recently bought myself a laser*
 
 * The [Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html)
