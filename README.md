@@ -1,5 +1,5 @@
 # 20/20 Visions for Knowle West Media Centre
-References and links for Pete Ashton's 20/20 Visions essay.
+References and links for Pete Ashton's 20/20 Visions essay **[My New Camera Is A Laser](http://twentytwentyvisions.org.uk/artists/pete-ashton/)**
 
 My website is at [peteashton.com](http://peteashton.com)
 
@@ -9,12 +9,6 @@ My website is at [peteashton.com](http://peteashton.com)
 
 * The [Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html)
 * [Wikipedia entry for LiDAR](https://en.wikipedia.org/wiki/Lidar)
-
-*My "normal" camera is a Nikon D7000.*
-
-* [Nikon D7000](https://en.wikipedia.org/wiki/Nikon_D7000)
-* [Full Frame DSLR](https://en.wikipedia.org/wiki/Full-frame_digital_SLR)
-* [Mirrorless interchangeable-lens camera](https://en.wikipedia.org/wiki/Mirrorless_interchangeable-lens_camera)
 
 *Using a LiDAR to make art is not a new thing.*
 
